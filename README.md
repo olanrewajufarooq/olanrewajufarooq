@@ -44,7 +44,7 @@
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Multi-Robot Systems-green"> and <img src="https://img.shields.io/badge/Swarm Intelligence-blue">
 - 🎯 Specifically interested in moving swarm intelligence from simulation engines to reality with limited human involvements in robot control.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Robot Modelling and Control-brown"> and <img src="https://img.shields.io/badge/AI in Robotics-008080">
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to PhD positions in <img src="https://img.shields.io/badge/Robotic in Complex Environments-red">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking for PhD positions in <img src="https://img.shields.io/badge/Robotic in Complex Environments-red">
 
 <!-- GitHub stats section -->
 
