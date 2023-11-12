@@ -45,4 +45,41 @@
 - 🎯 Specifically interested in moving swarm intelligence from simulation engines to reality with limited human involvements in robot control.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Robot Modelling and Control-brown"> and <img src="https://img.shields.io/badge/AI in Robotics-008080">
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to PhD positions in <img src="https://img.shields.io/badge/Robotic in Complex Environments-red">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:olanrewajufarooq@yahoo.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=purple"></a>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:olanrewajufarooq@yahoo.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white"></a>
+
+<!-- GitHub stats section -->
+
+## 📊 Github stats
+
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Farooq's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=olanrewajufarooq&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Farooq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanrewajufarooq&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<!-- Projects section -->
+
+## 📘 My top open source projects
+
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/olanrewajufarooq/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/olanrewajufarooq/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+  <p align="center">&#8192;</p>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/olanrewajufarooq/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/olanrewajufarooq/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=olanrewajufarooq&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+  </p>
+</p>
+
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+
+<p align="left">
+  <a href="https://github.com/olanrewajufarooq?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
