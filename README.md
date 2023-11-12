@@ -29,8 +29,21 @@
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> Yoruba ★★★★★</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Arabic ★★★☆☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> French ★☆☆☆☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/NGR.png" height="15"> Yoruba ★★★★★</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/ENG.png" height="15"> English ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/KSA.png" height="15"> Arabic ★★★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/FRA.png" height="15"> French ★☆☆☆☆</a></td></tr>
 </table>
+
+#### NOW
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new clustering algorithms for autonomous pattern recognition
+
+#### BIO
+
+- 🏢 Postdoctoral Associate at **Mississippi State University**
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
+- 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
+- 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
