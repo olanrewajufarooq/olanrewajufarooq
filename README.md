@@ -62,18 +62,18 @@
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
+## 📘 Some previous projects
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/olanrewajufarooq/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/olanrewajufarooq/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/olanrewajufarooq/OceanographyAnalysis"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=OceanographyAnalysis&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/olanrewajufarooq/BlueROVCompetition"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=BlueROVCompetition&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/olanrewajufarooq/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/olanrewajufarooq/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=olanrewajufarooq&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/olanrewajufarooq/FlexibleArmControl"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=olanrewajufarooq&repo=FlexibleArmControl&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/olanrewajufarooq/MIRUnderwaterRobotics"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=olanrewajufarooq&repo=MIRUnderwaterRobotics&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
 
