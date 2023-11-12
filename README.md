@@ -88,5 +88,5 @@
 <p align="center">
 <a href="https://www.olanrewajufarooq.com"><img src="https://img.shields.io/badge/-olanrewajufarooq.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/olanrewajufarooq"><img src="https://img.shields.io/badge/-Farooq%20Olanrewaju-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:olanrewajufarooq@yahoo.com"><img src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:olanrewajufarooq@yahoo.com"><img src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-D14836?style=flat&logo=Yahoo&logoColor=white"/></a>
 </p>
