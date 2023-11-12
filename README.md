@@ -45,4 +45,4 @@
 - 🎯 Specifically interested in moving swarm intelligence from simulation engines to reality with limited human involvements in robot control.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Robot Modelling and Control-brown"> and <img src="https://img.shields.io/badge/AI in Robotics-008080">
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to PhD positions in <img src="https://img.shields.io/badge/Robotic in Complex Environments-red">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:olanrewajufarooq@yahoo.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:olanrewajufarooq@yahoo.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-olanrewajufarooq@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white"></a>
