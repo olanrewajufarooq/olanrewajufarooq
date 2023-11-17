@@ -9,7 +9,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Farooq Olanrewaju! Graduate Student - Marine and Maritime Intelligent Robotics <br> (MIR - Erasmus+ Program) <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Farooq Olanrewaju! Graduate Student - Marine and Maritime Intelligent Robotics <br> (MIR - Erasmus+ Program)
 </h3> 
 
 <p align="center">   
