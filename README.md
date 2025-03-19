@@ -45,7 +45,7 @@
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Floating Base Manipulators-green"> and <img src="https://img.shields.io/badge/MultiRobot Systems-green">
 - 🎯 Specifically interested in interaction control between the robots and the environment.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Robot Modelling and Control-brown"> and <img src="https://img.shields.io/badge/AI in Robotics-purple">
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking for research collaborations in <img src="https://img.shields.io/badge/Robotics in Complex Environments-red">
+- 🔭 Looking for research collaborations in <img src="https://img.shields.io/badge/Robotics in Complex Environments-red">
 
 <!-- GitHub stats section -->
 
