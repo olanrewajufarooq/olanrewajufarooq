@@ -36,7 +36,8 @@
 </table>
 
 #### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing generic algorithms for cooperative manipulation in underwater environments.
+- 🎯 Geometric modelling, state estimation and control of variable tilt hexacopter.
+- 🎯 Geometric-based Adaptive Control of Quadcopters.
 
 #### BIO
 
