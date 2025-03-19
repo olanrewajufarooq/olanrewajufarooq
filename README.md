@@ -9,7 +9,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Farooq Olanrewaju! Graduate Student - Marine and Maritime Intelligent Robotics <br> (MIR - Erasmus+ Program)
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Farooq Olanrewaju! Doctoral Student - Systems and Control Engineering
 </h3> 
 
 <p align="center">   
@@ -40,11 +40,11 @@
 
 #### BIO
 
-- 🏢 Graduate Research Assistant at **Research Center in Robotics and Submarine Technologies (CIRTESU)**
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/MultiRobot Systems-green"> and <img src="https://img.shields.io/badge/Swarm Intelligence-blue">
-- 🎯 Specifically interested in moving swarm intelligence from simulation engines to reality with limited human involvements in robot control.
+- 🏢 Graduate Research Assistant at **Department of Control and Instrumentation Engineering, KFUPM.**
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Floating Base Manipulators-green"> and <img src="https://img.shields.io/badge/MultiRobot Systems-green">
+- 🎯 Specifically interested in interaction control between the robots and the environment.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Robot Modelling and Control-brown"> and <img src="https://img.shields.io/badge/AI in Robotics-purple">
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking for PhD positions in <img src="https://img.shields.io/badge/Robotics in Complex Environments-red">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking for research collaborations in <img src="https://img.shields.io/badge/Robotics in Complex Environments-red">
 
 <!-- GitHub stats section -->
 
