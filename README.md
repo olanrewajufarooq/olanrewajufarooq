@@ -32,7 +32,6 @@
     <tr><td><a href="README.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/NGR.png" height="15"> Yoruba ★★★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/ENG.png" height="15"> English ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/KSA.png" height="15"> Arabic ★★★☆☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/olanrewajufarooq/olanrewajufarooq/blob/main/icons/FRA.png" height="15"> French ★☆☆☆☆</a></td></tr>
 </table>
 
 #### NOW
