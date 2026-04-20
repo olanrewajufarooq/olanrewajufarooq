@@ -68,11 +68,24 @@ Doctoral researcher in **Systems and Control Engineering** at [KFUPM](https://ww
 
 - **[Grasp Planning for Underwater Robot Cooperation](https://github.com/olanrewajufarooq/GraspPlanning)** — MSc Thesis Research at Universitat Jaume I (Feb–Jun 2024) | Python, ROS, Computer Vision, Cooperative Robotics
 - **[Control of Flexible Robotic Arm](https://github.com/olanrewajufarooq/FlexibleArmControl)** — Model identification, Kalman filtering, optimal control (Sep–Nov 2023) | MATLAB, Simulink, ARMAX
-- **[Optimal Planning Algorithm for Autonomous Shared Vehicle Transportation](https://github.com/olanrewajufarooq/AVT-Planning)** — Graph networks for path optimization (Sep–Nov 2023) | Python, AI Planning
+- **Optimal Planning Algorithm for Autonomous Shared Vehicle Transportation** (Private) — Graph networks for path optimization (Sep–Nov 2023) | Python, AI Planning
 - **[Autonomous Docking & Underwater Treasure Search with BlueROV](https://github.com/olanrewajufarooq/BlueROVCompetition)** — Vision-based autonomous systems (Mar–Jun 2023) | Python, ROS, Deep Learning, Computer Vision
 - **[Trajectory Planning & Autonomous Control of BlueROV](https://github.com/olanrewajufarooq/TrajectoryPlanning-BlueROV)** — Path planning and control (Feb–May 2023) | Python, ROS
 - **[Oceanographic Analysis of Mediterranean Sea](https://github.com/olanrewajufarooq/OceanographyAnalysis)** — Data-driven analysis (Oct 2022–Feb 2023) | MATLAB, Python, Data Analysis
 - **[Modelling & Simulation of Autonomous Underwater Vehicle](https://github.com/olanrewajufarooq/AUVModelling)** — System dynamics (Oct 2022–Jan 2023) | MATLAB, Simulink
-- **[Development of Unmanned Aerial System](https://github.com/olanrewajufarooq/UAS-Surveillance)** — Aerial surveillance and delivery (Nov 2019–Aug 2021) | Control systems, robotics
+- **Development of Unmanned Aerial System** — Aerial surveillance and delivery (Nov 2019–Aug 2021) | Control systems, robotics
+
+---
+
+## 📚 Publications
+
+**Published**
+
+- Olanrewaju, F., et al. (2023). **APO-Optimized ARX-Based System Identification of a Ship Maneuvering System**. [Google Scholar](https://scholar.google.com/citations?user=V39j_30AAAAJ&hl=en)
+
+**Under Review**
+
+- Olanrewaju, F., et al. (2026). **Geometric Adaptive Control on SE(3) for Fully-Actuated Aerial Vehicles With Online Parameter Estimation**. Submitted to ICUAS 2026.
+- Olanrewaju, F., et al. (2026). **From Modeling to Control Allocation: A Geometric Approach to Variable-Tilt Hexacopter**. Submitted to ICUAS 2026.
 
 ---
