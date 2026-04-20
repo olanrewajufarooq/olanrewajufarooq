@@ -44,12 +44,35 @@ Doctoral researcher in **Systems and Control Engineering** at [KFUPM](https://ww
 
 ---
 
-<div align="center">
+## 🎓 Education
 
-### 🤝 Open to Collaborations
+- **PhD** in Systems and Control Engineering · [KFUPM](https://www.kfupm.edu.sa) (Aug 2024 – Jul 2028)
+- **Master's** in Electrical and Computer Engineering · [Instituto Superior Técnico](https://tecnico.ulisboa.pt) (Sep 2023 – Aug 2024)
+- **Master's** in Engineering of Complex Systems (Marine & Maritime Intelligent Robotics) · [Université de Toulon](https://www.univ-tln.fr) (Sep 2022 – Aug 2023)
+- **B.Eng.** in Mechanical Engineering · [University of Ilorin](https://www.unilorin.edu.ng) (Nov 2015 – Oct 2021)
 
-I'm actively looking for research collaborators working on<br/>
-**Vehicle-Manipulator Systems (VMS)** and **Safe Physical Human-Robot Interaction (pHRI)**.<br/>
-If your work intersects with mine, let's connect.
+---
 
-</div>
+## 💼 Work Experience
+
+- **Graduate Assistant** · [KFUPM](https://www.kfupm.edu.sa) (Sep 2024 – Present)
+- **Research Staff Member** · [Universitat Jaume I](https://www.uji.es) (Feb – Jun 2024)
+- **Robotics Research Intern** · [Université de Toulon](https://www.univ-tln.fr) (Jun – Aug 2023)
+- **Software Developer** · McGeorge Consulting Ltd (Aug 2020 – Jul 2021)
+- **Lead Tutor, Data Science & AI** · LEADvision Academy (Mar – May 2020)
+- **Engineering Intern** · OCI Automation Ltd (Mar – Sep 2019)
+
+---
+
+## 🔬 Notable Projects
+
+- **[Grasp Planning for Underwater Robot Cooperation](https://github.com/olanrewajufarooq/GraspPlanning)** — MSc Thesis Research at Universitat Jaume I (Feb–Jun 2024) | Python, ROS, Computer Vision, Cooperative Robotics
+- **[Control of Flexible Robotic Arm](https://github.com/olanrewajufarooq/FlexibleArmControl)** — Model identification, Kalman filtering, optimal control (Sep–Nov 2023) | MATLAB, Simulink, ARMAX
+- **[Optimal Planning Algorithm for Autonomous Shared Vehicle Transportation](https://github.com/olanrewajufarooq/AVT-Planning)** — Graph networks for path optimization (Sep–Nov 2023) | Python, AI Planning
+- **[Autonomous Docking & Underwater Treasure Search with BlueROV](https://github.com/olanrewajufarooq/BlueROVCompetition)** — Vision-based autonomous systems (Mar–Jun 2023) | Python, ROS, Deep Learning, Computer Vision
+- **[Trajectory Planning & Autonomous Control of BlueROV](https://github.com/olanrewajufarooq/TrajectoryPlanning-BlueROV)** — Path planning and control (Feb–May 2023) | Python, ROS
+- **[Oceanographic Analysis of Mediterranean Sea](https://github.com/olanrewajufarooq/OceanographyAnalysis)** — Data-driven analysis (Oct 2022–Feb 2023) | MATLAB, Python, Data Analysis
+- **[Modelling & Simulation of Autonomous Underwater Vehicle](https://github.com/olanrewajufarooq/AUVModelling)** — System dynamics (Oct 2022–Jan 2023) | MATLAB, Simulink
+- **[Development of Unmanned Aerial System](https://github.com/olanrewajufarooq/UAS-Surveillance)** — Aerial surveillance and delivery (Nov 2019–Aug 2021) | Control systems, robotics
+
+---
