@@ -13,15 +13,16 @@
 
 ---
 
-## 🧑‍🔬 About Me
+## 🔬 About Me
 
 Doctoral researcher in **Systems and Control Engineering** at [KFUPM](https://www.kfupm.edu.sa), working on the **Geometric Port-Hamiltonian** approach to modelling and control of **Vehicle-Manipulator Systems (VMS)**, with application to physical Human-Robot Interaction (pHRI).
 
-- 🏢 **Graduate Research Assistant** · Dept. of Control & Instrumentation Engineering, KFUPM
+- 🏢 **Lab:** [ARM4L Lab](https://ri.kfupm.edu.sa/irc-sml/facilities/arm4l-lab) · [IRC for Smart Mobility & Logistics](https://ri.kfupm.edu.sa/irc-sml) at KFUPM
+- 👨‍🏫 **Advisor:** [Dr. Ramy Rashad](https://scholar.google.com/citations?user=M7fdYekAAAAJ&hl=en)
 - 🤖 **Research focus:** Geometric Port-Hamiltonian modelling and control of Vehicle-Manipulator Systems
 - 🦾 **Application domain:** Physical Human-Robot Interaction (pHRI)
 - 🔬 **Recent exploration:** Geometric Control on SE(3) for tracking and adaptive control problems
-- 💡 **Interests:** Safe Human-Robot Interaction · Energy-Aware Robotics
+- 💡 **Interests:** Geometric Modelling & Control · Energy-Aware Robotics · Safe Physical Human-Robot Interaction · Vehicle-Manipulator Systems
 - 🤝 **Open to collaborations in:** VMS and Safe pHRI
 
 ---
