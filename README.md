@@ -53,7 +53,7 @@ Doctoral researcher in **Systems and Control Engineering** at [KFUPM](https://ww
 ## 🎓 Education
 
 - **PhD** in Systems and Control Engineering · [KFUPM](https://www.kfupm.edu.sa) (Aug 2024 – Jul 2028)
-- **Master's** in Electrical and Computer Engineering · [Instituto Superior Técnico](https://tecnico.ulisboa.pt) (Sep 2023 – Aug 2024)
+- **Master's** in Electrical and Computer Engineering · [Instituto Superior Técnico](https://tecnico.ulisboa.pt) (Sep 2023 – Nov 2024)
 - **Master's** in Engineering of Complex Systems (Marine & Maritime Intelligent Robotics) · [Université de Toulon](https://www.univ-tln.fr) (Sep 2022 – Aug 2023)
 - **B.Eng.** in Mechanical Engineering · [University of Ilorin](https://www.unilorin.edu.ng) (Nov 2015 – Oct 2021)
 
